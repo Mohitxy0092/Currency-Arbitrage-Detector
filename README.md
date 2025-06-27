@@ -19,7 +19,7 @@ The Currency Arbitrage System is a server-side application that uses a data.json
 4. Run the application.
 
 ## Recorded Demo:
-[Click to watch demo]https://youtu.be/OEFTNQvCNik
+[Click to watch demo](https://youtu.be/OEFTNQvCNik)
 
 ## Usage:
 1. Run the application.
